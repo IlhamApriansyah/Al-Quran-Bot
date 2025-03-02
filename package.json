@@ -1,0 +1,11 @@
+{
+  "name": "al-quran-bot",
+  "version": "1.0.0",
+  "description": "Read Al-Qur'an on Telegram",
+  "main": "index.js",
+  "scripts": {
+    "project": "python main.py"
+  },
+  "author": "Ilham Apriansyah",
+  "license": "ISC"
+}
