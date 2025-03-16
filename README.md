@@ -41,7 +41,7 @@ TOKEN = "Gunakan token sendiri"
 5. Tinggal jalankan project dengan perintah :
 
 ```
-npm start project
+npm run project
 ```
 
 ## Kontribusi <a name = "kontribusi"></a>
